@@ -26,7 +26,7 @@
     "babel-preset-env": "^1.7.0",
     "css-loader": "^3.2.0",
     "express": "^4.17.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "script-loader": "^0.7.2",
     "style-loader": "^1.0.0",
     "webpack-dev-server": "^3.8.2"
